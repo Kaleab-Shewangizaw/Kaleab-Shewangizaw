@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Web development and DSA.<br>🤝 I’m looking for help with learning resources and new Ideas to work on.<br>🌱 I’m currently learning mern stack web development. data structure and algorithms<br>💬 Ask me about anything you like. <br>⚡ Fun fact I am a chemical engineering student at AAiT
+🔭 I’m currently working on Web development and DSA.<br>🤝<br>🌱 I’m currently learning mern stack web development. data structure and algorithms<br>💬 Ask me about anything you like. <br>⚡ Fun fact I am a chemical engineering student at AAiT
 
 
 ## 🌐 Socials:
