@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Web development and DSA.<br>🤝<br>🌱 I’m Front end Develope<br>💬 Ask me about anything you like. <br>⚡ Fun fact I am a chemical engineering student at AAiT
+🔭 I’m currently working on Web development and DSA.<br>🤝<br>🌱 I’m Front end Developer<br>💬 Ask me about anything you like. <br>⚡ Fun fact I am a chemical engineering student at AAiT
 
 
 ## 🌐 Socials:
