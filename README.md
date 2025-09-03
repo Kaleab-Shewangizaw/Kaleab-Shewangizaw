@@ -43,14 +43,14 @@ I’m passionate about **turning ideas into products** that solve real problems.
 
 ## 🌍 Connect With Me
 <p align="left">
-<a href="https://www.linkedin.com/in/kaleab-shewangizaw-976a35281/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/kal-x/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://t.me/kal_ab_s"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="https://instagram.com/kal_ab_s"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 ---
 
-<p align="center">
+<p align="end">
   <img src="https://komarev.com/ghpvc/?username=Kaleab-Shewangizaw&style=for-the-badge&color=blue" alt="Profile Views" />
 </p>
 
