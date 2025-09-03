@@ -1,9 +1,8 @@
-<h1 align="center">Hi, I'm Kaleab 👋</h1>
+<h1 align="center">Hi, I'm Kaleab [Kal_X] 👋</h1>
 <h3 align="center">Full-Stack Web Developer | Frontend Specialist | Problem Solver</h3>
 
 ---
 
-## 🚀 About Me
 I build **modern, scalable web applications** with a focus on clean code, performance, and great user experience.  
 I’m passionate about **turning ideas into products** that solve real problems.  
 
