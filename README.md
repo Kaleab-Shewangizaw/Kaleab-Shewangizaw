@@ -51,7 +51,7 @@ I’m passionate about **turning ideas into products** that solve real problems.
 ---
 
 <p align="end">
-  <img src="https://komarev.com/ghpvc/?username=Kaleab-Shewangizaw&style=for-the-badge&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Kaleab-Shewangizaw&style=for-the-badge&color=blue" alt="Visits" />
 </p>
 
 
