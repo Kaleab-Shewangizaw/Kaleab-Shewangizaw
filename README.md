@@ -1,68 +1,120 @@
-<h1 align="center">Hi, I'm Kaleab [Kal_X] 👋</h1>
-<h3 align="center">Full-Stack Web Developer | Frontend Specialist | Problem Solver</h3>
-
----
-
-I build **modern, scalable web applications** with a focus on clean code, performance, and great user experience.  
-I’m passionate about **turning ideas into products** that solve real problems.  
-
-- 🔭 Full-stack developer with strong **Frontend expertise** (React, Next.js, TypeScript)  
-- ⚡ Skilled in building **responsive UIs, APIs, and end-to-end solutions**  
-- 🎯 Experienced in **MERN stack, REST APIs, Authentication, and State Management**  
-- 🤝 Open to **freelance, remote, and full-time opportunities**  
-
----
-
-## 🛠 Skills & Tools
-**Languages:** JavaScript (ES6+), TypeScript, Python, HTML, CSS  
-**Frontend:** React, Next.js, TailwindCSS, Bootstrap, Vite, Shadcn UI  
-**Backend:** Node.js, Express.js  
-**Databases:** MongoDB, Firebase  
-**Other Tools:** Git, GitHub, REST APIs, NPM, Zustand  
-
----
+<h1 align="center">Hi there! I'm Kaleab 👋</h1>
 
 <p align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaleab-Shewangizaw&layout=compact&theme=github_dark&hide_border=false" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaleab-Shewangizaw&theme=github-dark-blue&hide_border=false" height="160"/>
+  <strong>Full-stack developer</strong> crafting reliable, maintainable, and performant web systems.<br>
+  Strong frontend intuition • Solid backend foundation • Obsessed with simplicity that scales
 </p>
 
 <p align="center">
-  
-</p>  
-
----
-
-## 🌟 Highlighted Projects
-- 🔗 **[Guava](#)** — Social blogging platform with communities & trending system  
-- 🔗 **[Portfolio Design Store](#)** — Professional portfolio templates for developers & freelancers  
-- 🔗 **[Summer Planner V2](#)** — File-manager-style task and project planning app  
-
----
-
-## 🌍 Connect With Me
-<p align="left">
-<a href="https://www.linkedin.com/in/kal-x/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://t.me/kal_ab_s"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<a href="https://instagram.com/kal_ab_s"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/kal-x/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://t.me/kaleab_shewangizaw"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <a href="https://x.com/Kal_abX"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (formerly Twitter)"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Kaleab-Shewangizaw&style=for-the-badge&color=blue&label=Profile+Views" alt="profile views"/>
 </p>
 
 ---
 
-<p align="end">
-  <img src="https://komarev.com/ghpvc/?username=Kaleab-Shewangizaw&style=for-the-badge&color=blue" alt="Visits" />
+### 🛠️ Core Beliefs
+- **Correctness > Cleverness** — Predictable code wins long-term
+- **Simple scales better** than complex "smart" solutions
+- **Performance matters**, but only after correctness & maintainability
+- Production is not a demo — observability, error handling, and graceful degradation are non-negotiable
+
+---
+
+### ⚡️ Tech I Ship With (Daily Drivers 2026)
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript"/>
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React"/>
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js"/>
+      <br>Next.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind"/>
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite"/>
+      <br>Vite
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js"/>
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express"/>
+      <br>Express
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB"/>
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase"/>
+      <br>Firebase
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/>
+      <br>Git
+    </td>
+  </tr>
+</table>
+
+**Honorable mentions:** Zustand, Shadcn UI, TanStack Query, Zod, tRPC (exploring), Prisma (when SQL makes sense)
+
+---
+
+### 🔥 Production-grade Work
+**Pazimo** — [pazimo.com](https://pazimo.com)  
+Modern commercial web platform serving real users every day.  
+→ Clean architecture • Performance tuning • Strong type safety • Reliable deployment pipeline
+
+**QLink**  
+Full-featured dynamic form & survey builder  
+→ Complex form engine • Real-time preview • Clean data modeling • Great DX
+
+**Summer Planner V2**  
+File-system-inspired task & project manager  
+→ Intentional information architecture • Long-term usability focus
+
+More projects & experiments → [Repositories](https://github.com/Kaleab-Shewangizaw?tab=repositories)
+
+---
+
+### 📊 Activity Snapshot
+*(Note: If these don't load, add more public commits to your repos for the services to generate data.)*
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kaleab-Shewangizaw&theme=dracula&show_icons=true&hide_border=true&border_radius=8&include_all_commits=true" height="180" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaleab-Shewangizaw&layout=donut&theme=dracula&hide_border=true&langs_count=8" height="180" alt="top languages"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaleab-Shewangizaw&theme=dracula&hide_border=true&border_radius=8" height="180" alt="streak"/>
+</p>
 
+---
 
+### 📬 Let's talk!
+Open to interesting full-stack opportunities, architecture discussions, or just geeking out over clean code.
 
+**Best ways to reach me:**  
+→ Telegram → https://t.me/kaleab_shewangizaw (fastest)  
+→ X (formerly Twitter) → https://x.com/Kal_abX  
+→ LinkedIn → https://www.linkedin.com/in/kal-x/
 
+Looking forward to building something reliable together! 🚀
 
+---
 
-
-
-
- 
-
-
+*Crafted with care in Addis Ababa 🇪🇹*
