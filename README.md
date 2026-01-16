@@ -12,15 +12,6 @@
   <img src="https://komarev.com/ghpvc/?username=Kaleab-Shewangizaw&style=for-the-badge&color=blue&label=Profile+Views" alt="profile views"/>
 </p>
 
----
-
-### 🛠️ Core Beliefs
-- **Correctness > Cleverness** — Predictable code wins long-term
-- **Simple scales better** than complex "smart" solutions
-- **Performance matters**, but only after correctness & maintainability
-- Production is not a demo — observability, error handling, and graceful degradation are non-negotiable
-
----
 
 ### ⚡️ Tech I Ship With 
 <table>
