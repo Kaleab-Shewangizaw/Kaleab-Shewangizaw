@@ -22,7 +22,7 @@
 
 ---
 
-### ⚡️ Tech I Ship With (Daily Drivers 2026)
+### ⚡️ Tech I Ship With 
 <table>
   <tr>
     <td align="center" width="96">
@@ -92,7 +92,6 @@ More projects & experiments → [Repositories](https://github.com/Kaleab-Shewang
 ---
 
 ### 📊 Activity Snapshot
-*(Note: If these don't load, add more public commits to your repos for the services to generate data.)*
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kaleab-Shewangizaw&theme=dracula&show_icons=true&hide_border=true&border_radius=8&include_all_commits=true" height="180" alt="stats"/>
