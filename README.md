@@ -36,6 +36,10 @@
       <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite"/>
       <br>Vite
     </td>
+     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=bun" width="48" height="48" alt="Vite"/>
+      <br>Bun
+    </td>
   </tr>
   <tr>
     <td align="center" width="96">
@@ -47,16 +51,20 @@
       <br>Express
     </td>
     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=elysia" width="48" height="48" alt="Express"/>
+      <br>Elysia
+    </td>
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB"/>
       <br>MongoDB
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase"/>
-      <br>Firebase
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="MongoDB"/>
+      <br>Postgres
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/>
-      <br>Git
+      <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase"/>
+      <br>Firebase
     </td>
   </tr>
 </table>
