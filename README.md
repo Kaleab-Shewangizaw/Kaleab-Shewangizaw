@@ -104,15 +104,13 @@ More projects & experiments → [Repositories](https://github.com/Kaleab-Shewang
 ---
 
 ### 📬 Let's talk!
-Open to interesting full-stack opportunities, architecture discussions, or just geeking out over clean code.
 
 **Best ways to reach me:**  
 → Telegram → https://t.me/kaleab_shewangizaw (fastest)  
 → X (formerly Twitter) → https://x.com/Kal_abX  
 → LinkedIn → https://www.linkedin.com/in/kal-x/
 
-Looking forward to building something reliable together! 🚀
+Looking forward to building something weird together! 🚀
 
 ---
 
-*Crafted with care in Addis Ababa 🇪🇹*
